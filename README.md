@@ -28,5 +28,5 @@
 - `README.md` – описание проекта.
 
 ## 🔗 Ссылки
-- [Интерактивный дашборд в Metabase](https://metabase.simulative.ru/dashboard/1250-rfm-analiz-aptechnoj-seti)
+- [Интерактивный дашборд в Metabase](https://metabase.simulative.ru/public/dashboard/de89842c-c8e7-413b-abcb-8e6cc4b159de)
 - [Мое резюме](https://izhevsk.hh.ru/resume/178972eeff10afe6890039ed1f4e6155745444)
